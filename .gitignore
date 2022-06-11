@@ -1,0 +1,6 @@
+.env
+node_modules
+data
+.nyc_output
+coverage
+sitemap.xml
