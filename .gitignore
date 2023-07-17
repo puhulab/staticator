@@ -4,3 +4,4 @@ data
 .nyc_output
 coverage
 sitemap.xml
+www/*
